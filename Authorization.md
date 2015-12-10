@@ -1,4 +1,4 @@
-# All Authorizations
+# Supported Authorizations
 This is a list of DataFire Links that currently support native authorization, either via OAuth, an API key, or a username/password.
 
 If you'd like to expedite authorization for a particular Link, please open a new Issue in this repository.
