@@ -40,3 +40,4 @@
 * Urban Airship (basic)
 * EchoNest (basic)
 * gavagai (apiKey parameter)
+* rhapsody (apiKey parameter)
