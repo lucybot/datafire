@@ -28,8 +28,6 @@ If you'd like to expedite authorization for a particular Link, please open a new
 
 ## TODO
 * Heroku (oauth)
-* Tumblr (oauth)
-* Facebook (oauth)
 * SoundCloud (oauth2)
 * FitBit (oauth2)
 * Backupify (oauth?)
