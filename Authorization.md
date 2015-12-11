@@ -9,29 +9,29 @@ If you'd like to expedite authorization for a particular Link, please open a new
 
 ## OAuth 2
 * Facebook
+* FitBit (oauth2)
 * GitHub
 * Google
+* Heroku (oauth)
 * Instagram
 * LinkedIn
 * Reddit
 * Salesforce
 * Slack
 * Spotify
-
+* SoundCloud (oauth2)
+* Tumblr (oauth1)
 
 ## API Key
 * DatumBox
+* Getty Images
 * import.io
-* Getty
+* Mandrill
 
 ## Other
 * LikeFolio (pass username/password to session endpoint, use session token after that)
 
 ## TODO
-* Heroku (oauth)
-* SoundCloud (oauth2)
-* FitBit (oauth2)
-* Tumblr (oauth1)
 * Backupify (oauth?)
 * MotaWord (oauth)
 * MailChimp
