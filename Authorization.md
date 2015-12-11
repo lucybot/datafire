@@ -8,15 +8,16 @@ If you'd like to expedite authorization for a particular Link, please open a new
 * Trello
 
 ## OAuth 2
-* Gmail
-* Slack
-* Salesforce
-* Reddit
-* Spotify
-* Instagram
 * Facebook
 * GitHub
+* Google
+* Instagram
 * LinkedIn
+* Reddit
+* Salesforce
+* Slack
+* Spotify
+
 
 ## API Key
 * DatumBox
@@ -30,6 +31,7 @@ If you'd like to expedite authorization for a particular Link, please open a new
 * Heroku (oauth)
 * SoundCloud (oauth2)
 * FitBit (oauth2)
+* Tumblr (oauth1)
 * Backupify (oauth?)
 * MotaWord (oauth)
 * MailChimp
