@@ -21,6 +21,10 @@ If you'd like to expedite authorization for a particular Link, please open a new
 ## API Key
 * DatumBox
 * import.io
+* Getty
+
+## Other
+* LikeFolio (pass username/password to session endpoint, use session token after that)
 
 ## TODO
 * Heroku (oauth)
@@ -31,10 +35,7 @@ If you'd like to expedite authorization for a particular Link, please open a new
 * Backupify (oauth?)
 * MotaWord (oauth)
 * MailChimp
-* Getty (apiKey)
 * Etsy
-* Weather Underground (apiKey)
-* LikeFolio (apiKey)
 * Bing (apiKey missing)
 * Vestorly (apiKey)
 * ConstantContact (basic)
