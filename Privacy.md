@@ -21,7 +21,7 @@ We use a third party payment processor, Stripe, for all payments. DataFire does 
 
 We use a third party payment processor to process payments made to us. In connection with the processing of such payments, we do not retain any personally identifiable information or any financial information such as credit card numbers. Rather, all such information is provided directly to our third party processor, Stripe, whose use of your personal information is governed by their privacy policy, which may be viewed at https://stripe.com/us/privacy.
 
-Information We Collect
+## Information We Collect
 
 We ask for certain information like your name, email address, timezone, and account credentials to use DataFire. We use this information to run DataFire and other things mentioned in this Privacy policy (like logging and analytics).
 
