@@ -1,7 +1,10 @@
 # Terms of Service
 We last updated this policy December 23, 2015.
+
 Welcome to DataFire! Here on the left you'll find our plain-english terms of service and the corresponding legal terms of service italicized below.
+
 Please review our terms, you must agree to them in order to use DataFire. If you are using DataFire on behalf of your business, make sure you are allowed to agree to our terms of service.
+
 We may change our terms of service from time to time. If we do, we will post a note on our website or email you.
 
 ## Legal Terms of Service
