@@ -27,6 +27,8 @@ If you'd like to expedite authorization for a particular Link, please open a new
 * Getty Images
 * import.io
 * Mandrill
+* MailChimp
+
 
 ## Other
 * LikeFolio (pass username/password to session endpoint, use session token after that)
@@ -34,7 +36,6 @@ If you'd like to expedite authorization for a particular Link, please open a new
 ## TODO
 * Backupify (oauth?)
 * MotaWord (oauth)
-* MailChimp
 * Etsy
 * Bing (apiKey missing)
 * Vestorly (apiKey)
