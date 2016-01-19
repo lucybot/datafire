@@ -6,21 +6,21 @@ If you'd like to expedite authorization for a particular Link, please open a new
 ## OAuth 1
 * Twitter
 * Trello
+* Tumblr
 
 ## OAuth 2
 * Facebook (pending approval)
-* FitBit (oauth2)
+* FitBit
 * GitHub
 * Google
-* Heroku (oauth)
+* Heroku
 * Instagram
 * LinkedIn
 * Reddit
 * Salesforce
 * Slack
 * Spotify
-* SoundCloud (oauth2)
-* Tumblr (oauth1)
+* SoundCloud
 
 ## API Key
 * DatumBox
