@@ -8,7 +8,7 @@ If you'd like to expedite authorization for a particular Link, please open a new
 * Trello
 
 ## OAuth 2
-* Facebook
+* Facebook (pending approval)
 * FitBit (oauth2)
 * GitHub
 * Google
