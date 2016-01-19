@@ -3,11 +3,6 @@ This is a list of DataFire Links that currently support native authorization, ei
 
 If you'd like to expedite authorization for a particular Link, please open a new Issue in this repository.
 
-## OAuth 1
-* Twitter
-* Trello
-* Tumblr
-
 ## OAuth 2
 * Facebook (pending approval)
 * FitBit
@@ -21,6 +16,11 @@ If you'd like to expedite authorization for a particular Link, please open a new
 * Slack
 * Spotify
 * SoundCloud
+
+## OAuth 1
+* Twitter
+* Trello
+* Tumblr
 
 ## API Key
 * DatumBox
