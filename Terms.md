@@ -50,7 +50,7 @@ To use DataFire, you must agree you won't use DataFire to break any local laws. 
 
 You can use DataFire but that doesn't mean you can copy or redistribute our intellectual property (like our trademarks, name, logo, source code, etc). Again, you have to follow your local laws when using DataFire.
 
-DataFire has a lot of user-submitted content (like our shared Daemons, product wiki, etc.)  By uploading content to DataFire, you are effectively transferring ownership of that content to us. We may moderate this content or remove it at our discretion. Sometimes we will access your content in order to provide support or technical assistance.
+DataFire has a lot of user-submitted content (like our shared Dataflows, product wiki, etc.)  By uploading content to DataFire, you are effectively transferring ownership of that content to us. We may moderate this content or remove it at our discretion. Sometimes we will access your content in order to provide support or technical assistance.
 
 Please note that DataFire does not receive any rights in any information or data from your accounts with third party services (i.e., Gmail or Dropbox) that is passed through or is processed by DataFire, unless you choose to make it publically available on DataFire.
 
